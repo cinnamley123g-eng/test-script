@@ -1,0 +1,6 @@
+{
+  "name": "Roblox Script Fixer & Compiler Optimizer",
+  "description": "Roblox Luau Script Optimizer, Bug Fixer, and Script Manager for Settings & Utility UI v4.0",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
